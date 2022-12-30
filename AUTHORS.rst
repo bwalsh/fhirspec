@@ -12,3 +12,4 @@ Contributors
 
 * Jason Paumier <jason@arkhn.com> (Contributor)
 * Simon Vadée <simon@arkhn.com> (Contributor)
+* Brian Walsh <brian@bwalsh.com> (Contributor)
